@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Lutang Mapping Authority" version="1.0" shortdescription="Lemurian OpenGeofiction Presets" description="OpenGeofiction Brands and So Much More">
+    <group name="Lutang">
+        <group name="Brands">
+            <group name="Food">
+                <item name="Pritong Isda ni Irene" icon="presets/food/fast_food.svg" type="node,closedway,multipolygon" preset_name_label="true">
+                    <link wiki="Tag:amenity=fast_food" />
+                    <space />
+                    <key key="amenity" value="fast_food" />
+                    <key key="brand" value="Pritong Isda ni Irene" />
+                    <key key="name" value="Pritong Isda ni Irene" />
+                    <key key="cuisine" value="fish" />
+                    <text key="ref" text="Reference" />
+                    <text key="branch" text="Branch" />
+                </item>
+                <item name="Bulalo Center" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="amenity" value="restaurant" />
+                    <key key="cuisine" value="filipino" />
+                    <key key="brand" value="Bulalo Center" />
+                    <text key="name" text="[NAME] Bulalo Center" />
+                    <text key="branch" text="Branch" />
+                    <text key="operator" text="Operator" />
+                </item>
+            </group>
+            <group name="Clothing">
+                <item name="Women in Suits" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="clothes" value="suits;women" />
+                    <key key="name" value="Women in Suits" />
+                    <key key="shop" value="clothes" />
+                </item>
+                <item name="Panapaan Shoe Exchange" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="second_hand" value="only" />
+                    <key key="name" value="Panapaan Shoe Exchange" />
+                    <key key="shop" value="shoes" />
+                </item>
+            </group>
+            <group name="Uncategorized">
+                <item name="Three Months' Salary" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="shop" value="jewelry" />
+                    <key key="name" value="Three Months' Salary" />
+                </item>
+                <item name="Bagong Baril" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="shop" value="weapons" />
+                    <key key="name" value="Bagong Baril" />
+                </item>
+                <item name="MoviePlanet" type="node,closedway,multipolygon" preset_name_label="true">
+                    <text key="name" text="MoviePlanet" />
+                    <text key="branch" text="Branch" />
+                    <text key="operator" text="Operator" />
+                </item>
+                
+            </group>
+        </group>
+    </group>
+
+</presets>
