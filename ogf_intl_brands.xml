@@ -21,12 +21,6 @@
                     <key key="amenity" value="cafe" />
                     <key key="name" value="CoffeeBreaks" />
                 </item>
-                <item name="Krispy" type="node,closedway,multipolygon" preset_name_label="true">
-                    <key key="amenity" value="fast_food" />
-                    <key key="cuisine" value="chicken" />
-                    <key key="name" value="Krispy" />
-                    <key key="brand" value="Krispy" />
-                </item>
                 <item name="Yodoshiya" type="node,closedway,multipolygon" preset_name_label="true">
                     <key key="amenity" value="fast_food" />
                     <key key="cuisine" value="japanese" />
