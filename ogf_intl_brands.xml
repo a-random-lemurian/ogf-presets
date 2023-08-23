@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Lemuria" version="1.0" shortdescription="Lemurian OpenGeofiction Presets: Intl Brands" description="OGF brands that can be mapped internationally">
+    <group name="OGF">
+        <group name="International Brands">
+            <group name="Food">
+                <item name="Krispy" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="name" value="Krispy" />
+                    <key key="brand" value="Krispy" />
+                    <key key="cuisine" value="chicken" />
+                    <key key="amenity" value="fast_food" />
+                </item>
+                <item name="Verona Coffee" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="amenity" value="cafe" />
+                    <key key="name" value="Verona Coffee" />
+                </item>
+                <item name="Empire Coffee" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="amenity" value="cafe" />
+                    <key key="name" value="Empire Coffee" />
+                </item>
+                <item name="CoffeeBreaks" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="amenity" value="cafe" />
+                    <key key="name" value="CoffeeBreaks" />
+                </item>
+                <item name="Krispy" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="amenity" value="fast_food" />
+                    <key key="cuisine" value="chicken" />
+                    <key key="name" value="Krispy" />
+                    <key key="brand" value="Krispy" />
+                </item>
+                <item name="Yodoshiya" type="node,closedway,multipolygon" preset_name_label="true">
+                    <key key="amenity" value="fast_food" />
+                    <key key="cuisine" value="japanese" />
+                    <key key="delivery" value="yes" />
+                    <key key="name" value="Yodoshiya" />
+                    <key key="takeaway" value="yes" />
+                </item>
+            </group>
+        </group>
+    </group>
+</presets>
