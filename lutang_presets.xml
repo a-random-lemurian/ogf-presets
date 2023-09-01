@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Lutang Mapping Authority" version="1.0" shortdescription="Lemurian OpenGeofiction Presets" description="OpenGeofiction Brands and So Much More">
     <group name="Lutang">
+        <group name="Railways">
+            <item name="Freight" type="way">
+                <combo key="operator" text="Operator" values="Solidago &amp; Araminta Railway,Batis Island Railroad,Huntsman Rail,Gahak &amp; Siritangan Railway" values_sort="false" />
+                <key key="gauge" value="1435" />
+                <key key="railway" value="rail" />
+                <key key="usage" value="main" />
+                <text key="name" text="Name" />
+            </item>
+        </group>
         <group name="Brands">
             <group name="Food">
                 <item name="Pritong Isda ni Irene" icon="presets/food/fast_food.svg" type="node,closedway,multipolygon" preset_name_label="true">
