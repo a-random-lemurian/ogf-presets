@@ -1,0 +1,163 @@
+{
+    "items": [
+        {
+            "display_name": "Original Lutang Meals",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Original Lutang Meals",
+                "cuisine": "filipino",
+                "name": "Original Lutang Meals"
+            }
+        },
+        {
+            "display_name": "P.C.N. Chicken",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "P.C.N. Chicken",
+                "cuisine": "chicken",
+                "name": "P.C.N. Chicken"
+            }
+        },
+        {
+            "display_name": "Lechon ni Lina",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Lechon ni Lina",
+                "cuisine": "filipino",
+                "name": "Lechon ni Lina"
+            }
+        },
+        {
+            "display_name": "Ang Igado ni Maria",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Ang Igado ni Maria",
+                "cuisine": "filipino",
+                "name": "Ang Igado ni Maria",
+                "alt_name:en": "Maria's Igado"
+            }
+        },
+        {
+            "display_name": "Your Mom's Igado",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Your Mom's Igado",
+                "cuisine": "filipino",
+                "name": "Your Mom's Igado"
+            }
+        },{
+            "display_name": "Lovely Litson",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Lovely Litson",
+                "cuisine": "filipino",
+                "name": "Lovely Litson"
+            }
+        },
+        {
+            "display_name": "Nalani's",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["*"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Nalani's",
+                "cuisine": "asian",
+                "name": "Nalani's"
+            }
+        },
+        {
+            "display_name": "Cowboy FSA-Style Grill",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Cowboy FSA-Style Grill",
+                "cuisine": "american;steak_house;archantan",
+                "name": "Cowboy FSA-Style Grill"
+            }
+        },
+        {
+            "display_name": "Cheat Day Meals",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Cheat Day Meals",
+                "name": "Cheat Day Meals"
+            }
+        },
+        {
+            "display_name": "Milkfish Expert",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": ["Lutang"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "restaurant",
+                "brand": "Milkfish Expert",
+                "cuisine": "fish",
+                "name": "Milkfish Expert"
+            }
+        }
+    ]
+}
