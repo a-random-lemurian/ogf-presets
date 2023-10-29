@@ -35,5 +35,34 @@ the Lemurian OGF index.
   * `no` - Countries that may NOT map a Nalani's.
 * `tags` - The tags to use. Key-value pairs.
 
+## `country_restrictions`: Finer Details
+Specific entries will always override wildcard entries.
+
+When producing region-specific preset files for JOSM, the scripts will
+not include a brand at all if the region is included as a `no` entry on
+the brand.
+
+### Examples
+#### One country only
+```json
+{"country_restrictions": {
+    "allowed": ["FSA"],
+    "ask": [],
+    "no": ["*"]
+}}
+```
+This brand may only be mapped in the FSA. A Lutang preset file will not
+include this brand.
+
+#### Every country, but not one
+```json
+{"country_restrictions": {
+    "allowed": ["*"],
+    "ask": [],
+    "no": ["Lutang"]
+}}
+```
+This brand really hates Lutang, for some reason.
+
 ## Fine Print
 * note 1: May or may not be used for OGF's iD editor.
