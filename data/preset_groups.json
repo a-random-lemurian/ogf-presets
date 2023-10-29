@@ -1,0 +1,12 @@
+{
+    "preset_groups": [
+        {
+            "name": "FSA",
+            "countries": ["FSA"]
+        },
+        {
+            "name": "Lutang",
+            "countries": ["Lutang"]
+        }
+    ]
+}
