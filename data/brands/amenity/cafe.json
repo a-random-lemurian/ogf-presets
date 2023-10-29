@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "name": "Verona Coffee",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "cafe",
+                "name": "Verona Coffee",
+                "brand": "Verona Coffee"
+            }
+        },
+        {
+            "name": "Empire Coffee",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "cafe",
+                "name": "Empire Coffee",
+                "brand": "Empire Coffee"
+            }
+        },
+        {
+            "name": "CoffeeBreaks",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "cafe",
+                "name": "CoffeeBreaks",
+                "brand": "CoffeeBreaks"
+            }
+        }
+    ]
+}
