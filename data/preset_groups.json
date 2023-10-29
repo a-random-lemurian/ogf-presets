@@ -7,6 +7,10 @@
         {
             "name": "Lutang",
             "countries": ["Lutang"]
+        },
+        {
+            "name": "all",
+            "countries": ["*"]
         }
     ]
 }
