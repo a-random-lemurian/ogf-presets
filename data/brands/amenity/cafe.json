@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "name": "Verona Coffee",
+            "display_name": "Verona Coffee",
             "country_restrictions": {
                 "allowed": [
                     "*"
@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "Empire Coffee",
+            "display_name": "Empire Coffee",
             "country_restrictions": {
                 "allowed": [
                     "*"
@@ -31,7 +31,7 @@
             }
         },
         {
-            "name": "CoffeeBreaks",
+            "display_name": "CoffeeBreaks",
             "country_restrictions": {
                 "allowed": [
                     "*"

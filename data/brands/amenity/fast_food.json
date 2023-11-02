@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "name": "Yodoshiya",
+            "display_name": "Yodoshiya",
             "origin_country": "Izaland",
             "logo": "Yodoshiya.png",
             "country_restrictions": {
@@ -21,7 +21,7 @@
             }
         },
         {
-            "name": "Krispy",
+            "display_name": "Krispy",
             "country_restrictions": {
                 "allowed": [
                     "*"
