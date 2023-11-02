@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "display_name": "Bagong Baril",
+            "origin_country": "Lutang",
+            "creator": "Lemuria",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "weapons",
+                "name": "Bagong Baril",
+                "brand": "Bagong Baril"
+            }
+        }
+    ]
+}

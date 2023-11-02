@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "display_name": "Lutang-Mart",
+            "origin_country": "Lutang",
+            "creator": "Lemuria",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "convenience",
+                "name": "Lutang-Mart",
+                "brand": "Lutang-Mart"
+            }
+        }
+    ]
+}

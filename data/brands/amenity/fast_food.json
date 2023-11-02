@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "display_name": "Yodoshiya",
+            "origin_country": "Izaland",
+            "logo": "Yodoshiya.png",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "japanese",
+                "delivery": "yes",
+                "name": "Yodoshiya",
+                "takeaway": "yes",
+                "brand": "Yodoshiya"
+            }
+        },
+        {
+            "display_name": "Krispy",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "name": "Krispy",
+                "amenity": "fast_food",
+                "cuisine": "chicken",
+                "brand": "Krispy"
+            }
+        }
+    ]
+}

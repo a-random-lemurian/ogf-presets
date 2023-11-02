@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "display_name": "Lutang Supermart",
+            "origin_country": "Lutang",
+            "creator": "Lemuria",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "supermarket",
+                "name": "Lutang Supermart",
+                "brand": "Lutang Supermart"
+            }
+        }
+    ]
+}

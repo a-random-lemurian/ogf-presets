@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "display_name": "Panapaan Shoe Exchange",
+            "origin_country": "Lutang",
+            "creator": "Lemuria",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "shop": "shoes",
+                "name": "Panapaan Shoe Exchange",
+                "brand": "Panapaan Shoe Exchange",
+                "second_hand": "only"
+            }
+        }
+    ]
+}

@@ -1,6 +1,9 @@
 # Lemurian OpenGeofiction Presets
 Map stuff faster with the power of Lemuria's OGF presets, meant for JOSM.
 
+Built on technology similar to OSM's NSI index, allowing faster updates
+to brands. 
+
 Includes:
 * International brands
 * Lutang brands
