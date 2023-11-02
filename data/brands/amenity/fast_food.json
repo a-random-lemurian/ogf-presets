@@ -35,6 +35,70 @@
                 "cuisine": "chicken",
                 "brand": "Krispy"
             }
+        },
+        {
+            "display_name": "Huckelberry's",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "name": "Huckelberry's",
+                "amenity": "fast_food",
+                "cuisine": "burger",
+                "brand": "Huckelberry's"
+            }
+        },
+        {
+            "display_name": "Burgiie's",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "name": "Burgiie's",
+                "amenity": "fast_food",
+                "cuisine": "burger",
+                "brand": "Burgiie's"
+            }
+        },
+        {
+            "display_name": "Duchess",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "name": "Duchess",
+                "amenity": "fast_food",
+                "cuisine": "burger",
+                "brand": "Duchess"
+            }
+        },
+        {
+            "display_name": "Aparicio's",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "name": "Aparicio's",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "brand": "Aparicio's"
+            }
         }
     ]
 }

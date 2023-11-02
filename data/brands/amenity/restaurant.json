@@ -158,6 +158,21 @@
                 "cuisine": "fish",
                 "name": "Milkfish Expert"
             }
+        },{
+        "display_name": "Cookin' Pizza",
+        "country_restrictions": {
+            "allowed": [
+                "FSA"
+            ],
+            "ask": [],
+            "no": ["*"]
+        },
+        "tags": {
+            "name": "Cookin' Pizza",
+            "amenity": "restaurant",
+            "cuisine": "pizza",
+            "brand": "Cookin' Pizza"
         }
+    }
     ]
 }
