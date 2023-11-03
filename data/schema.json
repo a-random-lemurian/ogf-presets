@@ -1,0 +1,66 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "OGF NSI brand json",
+    "description": "A JSON containing brands in the OGF NSI index",
+    "type": "object",
+    "properties": {
+        "items": {
+            "description": "All brands in this JSON file.",
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/brand"
+            }
+        }
+    },
+    "$defs": {
+        "brand": {
+            "type": "object",
+            "required": [
+                "display_name",
+                "country_restrictions",
+                "tags"
+            ],
+            "properties": {
+                "display_name": {
+                    "type": "string",
+                    "description": "The name of the brand."
+                },
+                "country_restrictions": {
+                    "type": "object",
+                    "description": "Data on what countries this brand may be mapped in.",
+                    "properties": {
+                        "allowed": {
+                            "type": "array",
+                            "description": "Countries where the brand may be mapped without prior permission from the brand's owner."
+                        },
+                        "no": {
+                            "type": "array",
+                            "description": "Countries where the brand may not be mapped."
+                        },
+                        "ask": {
+                            "type": "array",
+                            "description": "Countries where the brand may be mapped with prior permission from the brand's owner.."
+                        }
+                    }
+                },
+                "creator": {
+                    "type": "string",
+                    "description": "The creator of the brand. Use either OGF username or most common name for the person."
+                },
+                "origin_country": {
+                    "type": "string",
+                    "description": "The name of the country where the brand originated. Do NOT use OGF territory codes."
+                },
+                "logo": {
+                    "type": "string",
+                    "description": "Filename of logo on OGF Wiki without File: prefix or URL"
+                },
+                "tags": {
+                    "type": "object",
+                    "description": "The brand's tags."
+                }
+            }
+        }
+    }
+}
