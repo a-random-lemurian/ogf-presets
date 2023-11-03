@@ -1,0 +1,72 @@
+{
+    "items": [
+        {
+            "display_name": "Pambansang Gasolina",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Pambansang Gasolina",
+                "name": "Pambansang Gasolina"
+            }
+        },
+        {
+            "display_name": "Racers' Gas",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Racers' Gas",
+                "name": "Racers' Gas"
+            }
+        },
+        {
+            "display_name": "Edwin Fuels",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Edwin Fuels",
+                "name": "Edwin Fuels"
+            }
+        },
+        {
+            "display_name": "Petro-Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Petro-Lutang",
+                "name": "Petro-Lutang"
+            }
+        }
+    ]
+}
