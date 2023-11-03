@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "display_name": "Ōdasamo Takeri 大山清",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity": "pharmacy",
+                "name": "Ōdasamo Takeri",
+                "name:en": "Ōdasamo Takeri",
+                "name:ja": "大山清",
+                "brand": "Ōdasamo Takeri"
+            }
+        }
+    ]
+}
