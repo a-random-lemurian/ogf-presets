@@ -11,6 +11,42 @@
         {
             "name": "all",
             "countries": ["*"]
+        },
+        {
+            "name": "FSA-NW",
+            "countries": ["FSA-NW"]
+        },
+        {
+            "name": "FSA-HL",
+            "countries": ["FSA-HL"]
+        },
+        {
+            "name": "FSA-WL",
+            "countries": ["FSA-WL"]
+        },
+        {
+            "name": "FSA-AL",
+            "countries": ["FSA-AL"]
+        },
+        {
+            "name": "FSA-MD",
+            "countries": ["FSA-MD"]
+        },
+        {
+            "name": "FSA-CT",
+            "countries": ["FSA-CT"]
+        },
+        {
+            "name": "FSA-NE",
+            "countries": ["FSA-NE"]
+        },
+        {
+            "name": "FSA-MA",
+            "countries": ["FSA-MA"]
+        },
+        {
+            "name": "FSA-SE",
+            "countries": ["FSA-SE"]
         }
     ]
 }
