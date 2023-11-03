@@ -1,6 +1,7 @@
 import xml.etree.cElementTree as ET
 import json
 import glob
+import os
 
 PRESET_GROUPS = json.load(open("../data/preset_groups.json"))["preset_groups"]
 DATA_DIR = "../data"
@@ -31,7 +32,9 @@ def make_josm_presets(preset):
                 if True in allowed:
                     make_preset_xml(brand, second_level_xml)
     tree = ET.ElementTree(root)
-    tree.write(f"ogf_presets.{preset.get('name')}.dist.xml")
+    if 'output' not in os.listdir('.'):
+        os.mkdir('output')
+    tree.write(f"output/ogf_presets.{preset.get('name')}.dist.xml")
 
 
 def make_all_josm_presets():
