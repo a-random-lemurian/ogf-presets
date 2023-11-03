@@ -115,6 +115,20 @@
                 "cuisine": "fish",
                 "brand": "Pritong Isda ni Irene"
             }
+        },
+        {
+            "display_name": "Yoyo's Chicken",
+            "country_restrictions": {
+                "allowed": ["FSA-NE"],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "brand": "Yoyo's Chicken",
+                "amenity": "fast_food",
+                "cuisine": "chicken",
+                "name": "Yoyo's Chicken"
+            }
         }
     ]
 }
