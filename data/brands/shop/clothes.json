@@ -39,6 +39,125 @@
                 "brand": "10th Month Costumes",
                 "clothes": "costumes"
             }
+        },
+        {
+            "display_name": "Faves",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "clothes",
+                "brand": "Faves",
+                "name": "Faves"
+            }
+        },
+        {
+            "display_name": "Needle & Thread",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "clothes",
+                "brand": "Needle & Thread",
+                "name": "Needle & Thread"
+            }
+        },
+        {
+            "display_name": "hoodie's",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "clothes",
+                "brand": "hoodie's",
+                "name": "hoodie's"
+            }
+        },
+        {
+            "display_name": "Archantan Flannel Company",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "clothes",
+                "brand": "Archantan Flannel Company",
+                "name": "Archantan Flannel Company"
+            }
+        },
+        {
+            "display_name": "Wolfjack",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "clothes",
+                "brand": "Wolfjack",
+                "name": "Wolfjack"
+            }
+        },
+        {
+            "display_name": "Toledo's",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "clothes",
+                "brand": "Toledo's",
+                "name": "Toledo's"
+            }
+        },
+        {
+            "display_name": "Junior's",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "shop": "clothes",
+                "brand": "Junior's",
+                "name": "Junior's"
+            }
         }
     ]
 }
