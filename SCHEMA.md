@@ -64,5 +64,21 @@ include this brand.
 ```
 This brand really hates Lutang, for some reason.
 
+### Special "countries"
+These "countries" are not at all countries, but are used for more fine-tuned
+control over where brands may be mapped. These FSA regions are used for
+entries in the database that are also part of the
+FSA's [franchise index](https://wiki.opengeofiction.net/index.php/Collab:Federal_States/Franchises).
+
+* FSA-NW: Northwest
+* FSA-HL: Heartland
+* FSA-WL: West Lakes
+* FSA-AL: Alormen
+* FSA-MD: Massodeyas
+* FSA-CT: Central
+* FSA-NE: Northeast
+* FSA-MA: Mid-Ardentic
+* FSA-SE: Southeast
+
 ## Fine Print
 * note 1: May or may not be used for OGF's iD editor.
