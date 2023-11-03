@@ -3,3 +3,4 @@
 defaultpresets.xml
 ignore_me
 *.dist.xml
+.vscode
