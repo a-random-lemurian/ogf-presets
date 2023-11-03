@@ -16,6 +16,42 @@
                 "name:izaki": "大山清",
                 "brand": "Ōdasamo Takeri"
             }
+        },
+        {
+            "display_name": "Ross Medicines",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "amenity": "pharmacy",
+                "name": "Ross Medicines",
+                "name:en": "Ross Medicines",
+                "brand": "Ross Medicines"
+            }
+        },
+        {
+            "display_name": "Pills & Syrups",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "amenity": "pharmacy",
+                "name": "Pills & Syrups",
+                "name:en": "Pills & Syrups",
+                "brand": "Pills & Syrups"
+            }
         }
     ]
 }
