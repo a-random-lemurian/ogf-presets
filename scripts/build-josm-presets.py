@@ -25,9 +25,11 @@ def make_josm_presets(preset):
                 first_level_xml, "group", name=second_level
             )
             for brand in data[first_level][second_level]:
-                if not should_include(brand.get('country_restrictions'), preset.get('name')):
-                    continue
-                make_preset_xml(brand, second_level_xml)
+                allowed = [
+                    should_include(brand.get('country_restrictions'), country)
+                    for country in preset.get('countries')]
+                if True in allowed:
+                    make_preset_xml(brand, second_level_xml)
     tree = ET.ElementTree(root)
     tree.write(f"ogf_presets.{preset.get('name')}.dist.xml")
 
