@@ -1,0 +1,55 @@
+{
+    "items": [
+        {
+            "display_name": "Banko ng Araminta",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "amenity": "bank",
+                "name": "Banko ng Araminta",
+                "brand": "Banko ng Araminta"
+            }
+        },
+        {
+            "display_name": "Bandila Bank",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "amenity": "bank",
+                "name": "Bandila Bank",
+                "brand": "Bandila Bank"
+            }
+        },
+        {
+            "display_name": "SoliBank",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "amenity": "bank",
+                "name": "SoliBank",
+                "brand": "SoliBank"
+            }
+        }
+    ]
+}
