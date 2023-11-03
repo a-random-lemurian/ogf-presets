@@ -1,0 +1,55 @@
+{
+    "items": [
+        {
+            "display_name": "Carnation Supply",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "shop": "florist",
+                "name": "Carnation Supply",
+                "brand": "Carnation Supply"
+            }
+        },
+        {
+            "display_name": "Solidago Flowers",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "shop": "florist",
+                "name": "Solidago Flowers",
+                "brand": "Solidago Flowers"
+            }
+        },
+        {
+            "display_name": "Mga Bulaklak ni Marta",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "shop": "florist",
+                "name": "Mga Bulaklak ni Marta",
+                "brand": "Mga Bulaklak ni Marta"
+            }
+        }
+    ]
+}
