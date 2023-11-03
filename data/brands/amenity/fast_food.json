@@ -99,6 +99,22 @@
                 "cuisine": "pizza",
                 "brand": "Aparicio's"
             }
+        },
+        {
+            "display_name": "Pritong Isda ni Irene",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "name": "Pritong Isda ni Irene",
+                "amenity": "fast_food",
+                "cuisine": "fish",
+                "brand": "Pritong Isda ni Irene"
+            }
         }
     ]
 }
