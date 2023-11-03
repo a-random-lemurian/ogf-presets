@@ -1,0 +1,13 @@
+{
+    "brands": ["a", "b"],
+    "country_restrictions": {
+        "allowed": [
+            "FSA"
+        ],
+        "ask": [],
+        "no": [
+            "*"
+        ]
+    },
+    "tags": {}
+}
