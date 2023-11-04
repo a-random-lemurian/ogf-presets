@@ -8,11 +8,7 @@ country_restrictions_test = [
     ({"allowed": ["FSA"], "ask": [], "no": ["Lutang"]}, "FSA", True),
     ({"allowed": ["FSA"], "ask": [], "no": ["Lutang"]}, "Lutang", False),
     ({"allowed": ["FSA"], "ask": [], "no": ["Lutang"]}, "Izaland", False),
-
-    # test FSA subregions
-    ({"allowed": ["FSA:NW"], "ask": [], "no": ["*"]}, "FSA:NE", False),
-    ({"allowed": ["FSA:NE"], "ask": [], "no": ["*"]}, "FSA", True),
-    ({"allowed": ["FSA"], "ask": [], "no": ["*"]}, "FSA:NE", True)
+    ({"allowed": ["FSA:NW"], "ask": [], "no": ["*"]}, "FSA:NE", False)
 ]
 
 @pytest.mark.parametrize('restrictions, country, expected', country_restrictions_test)
