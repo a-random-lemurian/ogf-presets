@@ -1,0 +1,18 @@
+{
+    "countries": [
+        {
+            "country": "FSA",
+            "subareas": [
+                "FSA-NW",
+                "FSA-HL",
+                "FSA-WL",
+                "FSA-AL",
+                "FSA-MD",
+                "FSA-CT",
+                "FSA-NE",
+                "FSA-MA",
+                "FSA-SE"
+            ]
+        }
+    ]
+}
