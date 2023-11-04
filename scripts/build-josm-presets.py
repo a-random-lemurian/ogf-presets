@@ -29,7 +29,7 @@ def make_josm_presets(preset):
                 allowed = [
                     should_include(brand.get('country_restrictions'), country)
                     for country in preset.get('countries')]
-                if True in allowed:
+                if True in allowed or preset.get('name') == 'all':
                     make_preset_xml(brand, second_level_xml)
     tree = ET.ElementTree(root)
     if 'output' not in os.listdir('.'):
@@ -65,10 +65,6 @@ def amalgamate_jsons():
 
 
 def should_include(restrictions, country):
-    # The "all" preset always includes everything.
-    if country == 'all':
-        return True
-
     """
     Determine if a preset should be included for a country by checking
     the country restrictions.
