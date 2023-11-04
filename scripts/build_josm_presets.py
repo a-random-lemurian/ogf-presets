@@ -72,18 +72,19 @@ def should_include(restrictions, country):
     allowed = restrictions.get("allowed")
     no = restrictions.get("no")
     # Assume that an empty "no" field means "*".
-    if no == []:
-        no.append('*')
-    if allowed == []:
-        allowed.append('*')
+    for list in [no, allowed]:
+        if len(list) == 0:
+            list.append('*')
 
-    result = None
-    if country in no and country not in allowed:
+    if country in no:
         result = False
-    if no == ['*'] and country not in allowed:
-        result = False
-    if country in allowed or allowed == ['*']:
+    elif country in allowed:
         result = True
+    elif allowed == ['*']:
+        result = True
+    else:
+        result = False
+
     return result
 
 
