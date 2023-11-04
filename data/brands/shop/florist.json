@@ -50,6 +50,22 @@
                 "name": "Mga Bulaklak ni Marta",
                 "brand": "Mga Bulaklak ni Marta"
             }
+        },
+        {
+            "display_name": "福平花壇 Fukupei Kwadan",
+            "creator": "Izaland",
+            "origin_country": "Izaland",
+            "country_restrictions": {
+                "allowed": ["*"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "name": "福平花壇 Fukupei Kwadan",
+                "name:en": "Fukupei Kwadan",
+                "name:izaki": "福平花壇",
+                "shop": "florist"
+            }
         }
     ]
 }
