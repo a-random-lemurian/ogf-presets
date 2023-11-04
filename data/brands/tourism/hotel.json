@@ -12,7 +12,7 @@
                 ]
             },
             "tags": {
-                "amenity": "hotel",
+                "tourism": "hotel",
                 "brand": "Pangtulog",
                 "name": "Pangtulog"
             }
@@ -29,7 +29,7 @@
                 ]
             },
             "tags": {
-                "amenity": "hotel",
+                "tourism": "hotel",
                 "brand": "Hotel Kamusta",
                 "name": "Hotel Kamusta"
             }
@@ -46,7 +46,7 @@
                 ]
             },
             "tags": {
-                "amenity": "hotel",
+                "tourism": "hotel",
                 "brand": "Hotel Berde",
                 "name": "Hotel Berde"
             }
@@ -63,7 +63,7 @@
                 ]
             },
             "tags": {
-                "amenity": "hotel",
+                "tourism": "hotel",
                 "brand": "Madaling Araw Hotel",
                 "name": "Madaling Araw Hotel"
             }
