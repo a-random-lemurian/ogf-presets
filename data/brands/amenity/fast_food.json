@@ -129,6 +129,19 @@
                 "cuisine": "chicken",
                 "name": "Yoyo's Chicken"
             }
+        },
+        {
+            "display_name": "Quick'n'Long",
+            "country_restrictions": {
+                "allowed": ["*"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "brand": "Quick'n'Long",
+                "amenity": "fast_food",
+                "name": "Quick'n'Long"
+            }
         }
     ]
 }
