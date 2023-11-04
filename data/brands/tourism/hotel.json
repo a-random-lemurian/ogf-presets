@@ -2,6 +2,8 @@
     "items": [
         {
             "display_name": "Pangtulog",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
             "country_restrictions": {
                 "allowed": [
                     "Lutang"
@@ -19,6 +21,8 @@
         },
         {
             "display_name": "Hotel Kamusta",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
             "country_restrictions": {
                 "allowed": [
                     "Lutang"
@@ -36,6 +40,8 @@
         },
         {
             "display_name": "Hotel Berde",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
             "country_restrictions": {
                 "allowed": [
                     "Lutang"
@@ -53,6 +59,8 @@
         },
         {
             "display_name": "Madaling Araw Hotel",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
             "country_restrictions": {
                 "allowed": [
                     "Lutang"
