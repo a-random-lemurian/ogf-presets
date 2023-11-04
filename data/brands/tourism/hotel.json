@@ -75,6 +75,176 @@
                 "brand": "Madaling Araw Hotel",
                 "name": "Madaling Araw Hotel"
             }
+        },
+        {
+            "display_name": "Hancher Elite",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "Hancher Elite",
+                "name": "Hancher Elite"
+            }
+        },
+        {
+            "display_name": "Holliston Inn",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "Holliston Inn",
+                "name": "Holliston Inn"
+            }
+        },
+        {
+            "display_name": "The Bassett",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "The Bassett",
+                "name": "The Bassett"
+            }
+        },
+        {
+            "display_name": "UltraLiving",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "UltraLiving",
+                "name": "UltraLiving"
+            }
+        },
+        {
+            "display_name": "The Wilberding",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "The Wilberding",
+                "name": "The Wilberding"
+            }
+        },
+        {
+            "display_name": "Waltherams Suites",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "Waltherams Suites",
+                "name": "Waltherams Suites"
+            }
+        },
+        {
+            "display_name": "Consulate Suites",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "Consulate Suites",
+                "name": "Consulate Suites"
+            }
+        },
+        {
+            "display_name": "Leyton Hotel",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "Leyton Hotel",
+                "name": "Leyton Hotel"
+            }
+        },
+        {
+            "display_name": "The Atrium",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "The Atrium",
+                "name": "The Atrium"
+            }
+        },
+        {
+            "display_name": "Meridian Suites",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "tourism": "hotel",
+                "brand": "Meridian Suites",
+                "name": "Meridian Suites"
+            }
         }
     ]
 }
