@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "display_name": "HotelHour",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "love_hotel",
+                "tourism": "motel",
+                "brand": "HotelHour",
+                "name": "HotelHour"
+            }
+        },
+        {
+            "display_name": "Isang Oras Lang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "love_hotel",
+                "tourism": "motel",
+                "brand": "Isang Oras Lang",
+                "name": "Isang Oras Lang"
+            }
+        },
+        {
+            "display_name": "Do It",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "love_hotel",
+                "tourism": "motel",
+                "brand": "Do It",
+                "name": "Do It"
+            }
+        }
+    ]
+}

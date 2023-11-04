@@ -1,0 +1,72 @@
+{
+    "items": [
+        {
+            "display_name": "Pangtulog",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "hotel",
+                "brand": "Pangtulog",
+                "name": "Pangtulog"
+            }
+        },
+        {
+            "display_name": "Hotel Kamusta",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "hotel",
+                "brand": "Hotel Kamusta",
+                "name": "Hotel Kamusta"
+            }
+        },
+        {
+            "display_name": "Hotel Berde",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "hotel",
+                "brand": "Hotel Berde",
+                "name": "Hotel Berde"
+            }
+        },
+        {
+            "display_name": "Madaling Araw Hotel",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "hotel",
+                "brand": "Madaling Araw Hotel",
+                "name": "Madaling Araw Hotel"
+            }
+        }
+    ]
+}
