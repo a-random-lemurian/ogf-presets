@@ -72,6 +72,20 @@
                 "name": "Six Twelve",
                 "operator": "Six Twelve"
             }
+        },
+        {
+            "display_name": "Universe",
+            "origin_country": "FSA",
+            "country_restrictions": {
+                "allowed": ["FSA"],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "shop": "convenience",
+                "brand": "Universe",
+                "name": "Universe"
+            }
         }
     ]
 }
