@@ -1,0 +1,81 @@
+{
+    "items": [
+        {
+            "display_name": "MoviePlanet",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "cinema",
+                "brand": "MoviePlanet",
+                "name": "MoviePlanet"
+            }
+        },
+        {
+            "display_name": "Archantan Film Company",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "cinema",
+                "brand": "Archantan Film Company",
+                "name": "Archantan Film Company"
+            }
+        },
+        {
+            "display_name": "Screeners",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA"
+                ],
+                "ask": [],
+                "no": [
+                    "*"
+                ]
+            },
+            "tags": {
+                "amenity": "cinema",
+                "brand": "Screeners",
+                "name": "Screeners"
+            }
+        },
+        {
+            "display_name": "Blue Sparrow Cinema",
+            "country_restrictions": {
+                "allowed": [
+                    "FSA:NW",
+                    "FSA:HL",
+                    "FSA:WL"
+                ],
+                "ask": [
+                    "FSA:SE"
+                ],
+                "no": [
+                    "FSA:AL",
+                    "FSA:MD",
+                    "FSA:CT",
+                    "FSA:NE",
+                    "FSA:MA"
+                ]
+            },
+            "origin_country": "FSA",
+            "tags": {
+                "amenity": "cinema",
+                "brand": "Blue Sparrow Cinema",
+                "name": "Blue Sparrow Cinema"
+            }
+        }
+    ]
+}
