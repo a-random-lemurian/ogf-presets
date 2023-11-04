@@ -44,6 +44,23 @@
                 "name": "CoffeeBreaks",
                 "brand": "CoffeeBreaks"
             }
+        },
+        {
+            "display_name": "Moonlight Coffee",
+            "creator": "Izaland",
+            "origin_country": "Izaland",
+            "country_restrictions": {
+                "allowed": ["*"],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "amenity":"cafe",
+                "name":"Moonlight Coffee",
+                "brand":"Moonlight Coffee",
+                "operator":"Moonbucks Coffee",
+                "outdoor_seating":"yes"
+            }
         }
     ]
 }
