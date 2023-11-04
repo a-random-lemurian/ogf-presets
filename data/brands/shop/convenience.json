@@ -18,6 +18,60 @@
                 "name": "Lutang-Mart",
                 "brand": "Lutang-Mart"
             }
+        },
+        {
+            "display_name": "Friendly Mart",
+            "creator": "Izaland",
+            "origin_country": "Izaland",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "shop": "convenience",
+                "brand": "Friendly Mart",
+                "name": "Friendly Mart",
+                "operator": "Friendly Mart"
+            }
+        },
+        {
+            "display_name": "PickIt!",
+            "creator": "Izaland",
+            "origin_country": "Izaland",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "shop": "convenience",
+                "brand": "PickIt!",
+                "name": "PickIt!",
+                "operator": "PickIt!"
+            }
+        },
+        {
+            "display_name": "Six Twelve",
+            "creator": "Izaland",
+            "origin_country": "Izaland",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": []
+            },
+            "tags": {
+                "shop": "convenience",
+                "brand": "Six Twelve",
+                "name": "Six Twelve",
+                "operator": "Six Twelve"
+            }
         }
     ]
 }
