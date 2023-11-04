@@ -1,1 +1,4 @@
 mass_brand_gen.json
+venv
+__pycache__
+.pytest_cache
