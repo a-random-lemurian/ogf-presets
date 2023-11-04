@@ -14,39 +14,39 @@
         },
         {
             "name": "FSA-NW",
-            "countries": ["FSA-NW"]
+            "countries": ["FSA", "FSA-NW"]
         },
         {
             "name": "FSA-HL",
-            "countries": ["FSA-HL"]
+            "countries": ["FSA", "FSA-HL"]
         },
         {
             "name": "FSA-WL",
-            "countries": ["FSA-WL"]
+            "countries": ["FSA", "FSA-WL"]
         },
         {
             "name": "FSA-AL",
-            "countries": ["FSA-AL"]
+            "countries": ["FSA", "FSA-AL"]
         },
         {
             "name": "FSA-MD",
-            "countries": ["FSA-MD"]
+            "countries": ["FSA", "FSA-MD"]
         },
         {
             "name": "FSA-CT",
-            "countries": ["FSA-CT"]
+            "countries": ["FSA", "FSA-CT"]
         },
         {
             "name": "FSA-NE",
-            "countries": ["FSA-NE"]
+            "countries": ["FSA", "FSA-NE"]
         },
         {
             "name": "FSA-MA",
-            "countries": ["FSA-MA"]
+            "countries": ["FSA", "FSA-MA"]
         },
         {
             "name": "FSA-SE",
-            "countries": ["FSA-SE"]
+            "countries": ["FSA", "FSA-SE"]
         }
     ]
 }
