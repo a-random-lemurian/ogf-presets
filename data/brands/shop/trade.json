@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "display_name": "TileZone",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask":[],
+                "no": ["*"]
+            },
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "tags": {
+                "shop": "trade",
+                "trade": "tiles",
+                "name": "TileZone",
+                "brand": "TileZone"
+            }
+        }
+    ]
+}
