@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "display_name": "DoggoFrens",
+            "creator": "Lemuria",
+            "origin_country": "Lutang",
+            "country_restrictions": {
+                "allowed": [
+                    "Lutang"
+                ],
+                "ask": [],
+                "no": ["*"]
+            },
+            "tags": {
+                "shop": "pet",
+                "name": "DoggoFrens",
+                "brand": "DoggoFrens"
+            }
+        }
+    ]
+}
