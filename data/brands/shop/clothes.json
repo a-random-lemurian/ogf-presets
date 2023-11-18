@@ -158,6 +158,805 @@
                 "brand": "Junior's",
                 "name": "Junior's"
             }
+        },
+        {
+            "display_name": "Ode & Harcroft",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Ode & Harcroft",
+                "shop": "clothes",
+                "brand": "Ode & Harcroft"
+            }
+        },
+        {
+            "display_name": "Upward",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Upward",
+                "shop": "clothes",
+                "brand": "Upward"
+            }
+        },
+        {
+            "display_name": "Sash",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Sash",
+                "shop": "clothes",
+                "brand": "Sash"
+            }
+        },
+        {
+            "display_name": "Harbridge FC Community Stall",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Harbridge FC Community Stall",
+                "shop": "clothes",
+                "brand": "Harbridge FC Community Stall"
+            }
+        },
+        {
+            "display_name": "Market Vintage",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Market Vintage",
+                "shop": "clothes",
+                "brand": "Market Vintage"
+            }
+        },
+        {
+            "display_name": "Woollens",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Woollens",
+                "shop": "clothes",
+                "brand": "Woollens"
+            }
+        },
+        {
+            "display_name": "Like New",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Like New",
+                "shop": "clothes",
+                "brand": "Like New"
+            }
+        },
+        {
+            "display_name": "Fit Good",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Fit Good",
+                "shop": "clothes",
+                "brand": "Fit Good"
+            }
+        },
+        {
+            "display_name": "Recycle Upcycle",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Recycle Upcycle",
+                "shop": "clothes",
+                "brand": "Recycle Upcycle"
+            }
+        },
+        {
+            "display_name": "Uptown Vintage",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Uptown Vintage",
+                "shop": "clothes",
+                "brand": "Uptown Vintage"
+            }
+        },
+        {
+            "display_name": "A&R",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "A&R",
+                "shop": "clothes",
+                "brand": "A&R"
+            }
+        },
+        {
+            "display_name": "Airtight",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Airtight",
+                "shop": "clothes",
+                "brand": "Airtight"
+            }
+        },
+        {
+            "display_name": "Woodcock",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Woodcock",
+                "shop": "clothes",
+                "brand": "Woodcock"
+            }
+        },
+        {
+            "display_name": "Baile",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Baile",
+                "shop": "clothes",
+                "brand": "Baile"
+            }
+        },
+        {
+            "display_name": "Woodward Outfitters",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Woodward Outfitters",
+                "shop": "clothes",
+                "brand": "Woodward Outfitters"
+            }
+        },
+        {
+            "display_name": "Estate",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Estate",
+                "shop": "clothes",
+                "brand": "Estate"
+            }
+        },
+        {
+            "display_name": "Karafe",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Karafe",
+                "shop": "clothes",
+                "brand": "Karafe"
+            }
+        },
+        {
+            "display_name": "Singsong",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Singsong",
+                "shop": "clothes",
+                "brand": "Singsong"
+            }
+        },
+        {
+            "display_name": "Bootique",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Bootique",
+                "shop": "clothes",
+                "brand": "Bootique"
+            }
+        },
+        {
+            "display_name": "New",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "New",
+                "shop": "clothes",
+                "brand": "New"
+            }
+        },
+        {
+            "display_name": "Chubby Cheeks",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Chubby Cheeks",
+                "shop": "clothes",
+                "brand": "Chubby Cheeks"
+            }
+        },
+        {
+            "display_name": "Catch Me Outside",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Catch Me Outside",
+                "shop": "clothes",
+                "brand": "Catch Me Outside"
+            }
+        },
+        {
+            "display_name": "Link & Lion",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Link & Lion",
+                "shop": "clothes",
+                "brand": "Link & Lion"
+            }
+        },
+        {
+            "display_name": "Toby",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Toby",
+                "shop": "clothes",
+                "brand": "Toby"
+            }
+        },
+        {
+            "display_name": "Text",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Text",
+                "shop": "clothes",
+                "brand": "Text"
+            }
+        },
+        {
+            "display_name": "Bank",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Bank",
+                "shop": "clothes",
+                "brand": "Bank"
+            }
+        },
+        {
+            "display_name": "Buoy",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Buoy",
+                "shop": "clothes",
+                "brand": "Buoy"
+            }
+        },
+        {
+            "display_name": "Captain",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Captain",
+                "shop": "clothes",
+                "brand": "Captain"
+            }
+        },
+        {
+            "display_name": "Your Way",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Your Way",
+                "shop": "clothes",
+                "brand": "Your Way"
+            }
+        },
+        {
+            "display_name": "JOY",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "JOY",
+                "shop": "clothes",
+                "brand": "JOY"
+            }
+        },
+        {
+            "display_name": "Mudlarking",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Mudlarking",
+                "shop": "clothes",
+                "brand": "Mudlarking"
+            }
+        },
+        {
+            "display_name": "Northern Lights",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Northern Lights",
+                "shop": "clothes",
+                "brand": "Northern Lights"
+            }
+        },
+        {
+            "display_name": "Upper Level",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Upper Level",
+                "shop": "clothes",
+                "brand": "Upper Level"
+            }
+        },
+        {
+            "display_name": "The Connection",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "The Connection",
+                "shop": "clothes",
+                "brand": "The Connection"
+            }
+        },
+        {
+            "display_name": "Sandel",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Sandel",
+                "shop": "clothes",
+                "brand": "Sandel"
+            }
+        },
+        {
+            "display_name": "Mixture",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Mixture",
+                "shop": "clothes",
+                "brand": "Mixture"
+            }
+        },
+        {
+            "display_name": "Corpus",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Corpus",
+                "shop": "clothes",
+                "brand": "Corpus"
+            }
+        },
+        {
+            "display_name": "Julian",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Julian",
+                "shop": "clothes",
+                "brand": "Julian"
+            }
+        },
+        {
+            "display_name": "Hook, Line and Sinker",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Hook, Line and Sinker",
+                "shop": "clothes",
+                "brand": "Hook, Line and Sinker"
+            }
+        },
+        {
+            "display_name": "Clone",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Clone",
+                "shop": "clothes",
+                "brand": "Clone"
+            }
+        },
+        {
+            "display_name": "Bank Kids",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Bank Kids",
+                "shop": "clothes",
+                "brand": "Bank Kids"
+            }
+        },
+        {
+            "display_name": "Always 42",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Always 42",
+                "shop": "clothes",
+                "brand": "Always 42"
+            }
+        },
+        {
+            "display_name": "Woodward Ash",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Woodward Ash",
+                "shop": "clothes",
+                "brand": "Woodward Ash"
+            }
+        },
+        {
+            "display_name": "Benny & Carl",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Benny & Carl",
+                "shop": "clothes",
+                "brand": "Benny & Carl"
+            }
+        },
+        {
+            "display_name": "Capybara",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Capybara",
+                "shop": "clothes",
+                "brand": "Capybara"
+            }
+        },
+        {
+            "display_name": "Barnaby",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Barnaby",
+                "shop": "clothes",
+                "brand": "Barnaby"
+            }
+        },
+        {
+            "display_name": "Tomfoolery",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Tomfoolery",
+                "shop": "clothes",
+                "brand": "Tomfoolery"
+            }
         }
     ]
 }
