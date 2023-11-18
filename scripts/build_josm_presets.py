@@ -40,6 +40,7 @@ def make_josm_presets(preset):
 def make_all_josm_presets():
     for preset in PRESET_GROUPS:
         make_josm_presets(preset)
+        print(f"Generated {preset['name']} presets.")
 
 
 def make_preset_xml(brand: dict, parent_xml):
