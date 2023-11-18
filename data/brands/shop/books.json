@@ -1,0 +1,159 @@
+{
+    "items": [
+        {
+            "display_name": "Fanfiction Archive",
+            "origin_country": "Lutang",
+            "creator": "Lemuria",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Fanfiction Archive",
+                "shop": "books",
+                "brand": "Fanfiction Archive"
+            }
+        },
+        {
+            "display_name": "Chancel College Bookstore",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Chancel College Bookstore",
+                "shop": "books",
+                "brand": "Chancel College Bookstore"
+            }
+        },
+        {
+            "display_name": "Maughams",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Maughams",
+                "shop": "books",
+                "brand": "Maughams"
+            }
+        },
+        {
+            "display_name": "Secondhand City",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Secondhand City",
+                "shop": "books",
+                "brand": "Secondhand City"
+            }
+        },
+        {
+            "display_name": "A.J. Wallace",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "A.J. Wallace",
+                "shop": "books",
+                "brand": "A.J. Wallace"
+            }
+        },
+        {
+            "display_name": "Minster Bookshop",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Minster Bookshop",
+                "shop": "books",
+                "brand": "Minster Bookshop"
+            }
+        },
+        {
+            "display_name": "Stowfordes",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Stowfordes",
+                "shop": "books",
+                "brand": "Stowfordes"
+            }
+        },
+        {
+            "display_name": "Stowfordes",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "Stowfordes",
+                "shop": "books",
+                "brand": "Stowfordes"
+            }
+        },
+        {
+            "display_name": "New Books",
+            "country_restrictions": {
+                "allowed": [
+                    "*"
+                ],
+                "ask": [],
+                "no": [
+                    ""
+                ]
+            },
+            "tags": {
+                "name": "New Books",
+                "shop": "books",
+                "brand": "New Books"
+            }
+        }
+    ]
+}
